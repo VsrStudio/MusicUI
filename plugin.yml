@@ -1,0 +1,14 @@
+name: MusicUI
+main: VsrStudio\MusicUI\Main
+version: 1.0.0
+api: [5.0.0]
+author: vsr studio
+description: A plugin to set song URL, volume, and equalizer using a UI.
+commands:
+  musicui:
+    description: Opens the UI to manage music.
+    permission: musicui.command
+permissions:
+  musicui.command:
+    default: true
+    description: Allows all players to use the /musicui command.
