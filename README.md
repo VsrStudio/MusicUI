@@ -49,3 +49,8 @@
 ## Requirements  
 - **PocketMine-MP**: API version 5.0.0.  
 - A valid **MP3 URL** for songs.  
+
+## Shields
+
+[![](https://poggit.pmmp.io/shield.state/MusicUI)](https://poggit.pmmp.io/p/MusicUI)  
+[![](https://poggit.pmmp.io/shield.api/MusicUI)](https://poggit.pmmp.io/p/MusicUI)
