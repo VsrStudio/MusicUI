@@ -10,5 +10,5 @@ commands:
     permission: musicui.command
 permissions:
   musicui.command:
-    default: true
+    default: op
     description: Allows all players to use the /musicui command.
