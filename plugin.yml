@@ -2,7 +2,8 @@ name: MusicUI
 main: VsrStudio\MusicUI\Main
 version: 1.0.0
 api: [5.0.0]
-author: vsr studio
+author: vsrstudio
+experimental: true
 description: A plugin to set song URL, volume, and equalizer using a UI.
 commands:
   musicui:
