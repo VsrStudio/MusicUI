@@ -11,7 +11,6 @@ use pocketmine\command\CommandSender;
 class Main extends PluginBase implements Listener {
 
     protected function onEnable(): void {
-        $this->getLogger()->info("MusicUI is enabled!");
     }
 
     public function onCommand(CommandSender $sender, Command $command, string $label, array $args): bool {
